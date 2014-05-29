@@ -4,10 +4,10 @@ PicBook
 
 <ul>
 
-<li><h4>Description: &nbsp;</h4> Facebook Album Download and Move to Picasa is a web applicaiton where user is authenticated with his facebook and google credentials using OAuth 2.0.</li>
+<li><h4>Description: &nbsp;</h4> PicBook is a web applicaiton to view users Facebook Album, download them and also to move them to Picasa. Here user is authenticated with his facebook and google credentials using OAuth 2.0.</li>
 <li><h4>Functions: &nbsp;</h4>
 <ul>
-<li>
+
 <li>View Facebook Albums and Photos</li>
 <li>Download albums as zip</li>
 <li>Move albums to Picasa</li>
