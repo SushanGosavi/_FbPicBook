@@ -25,4 +25,7 @@ PicBook
 </ul>
 </li>
 </ul>
+<ul>
+<li><b>Note :</b> Download Zend Framework from <a href='http://framework.zend.com/downloads/latest'> here</a> and paste Zend folder in this project</li>
+</ul>
 
